@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Supply Chain Risk Intelligence",
+  "description": "Enterprise AI supply chain risk prediction, supplier intelligence, real-time disruption monitoring, and automated mitigation planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
